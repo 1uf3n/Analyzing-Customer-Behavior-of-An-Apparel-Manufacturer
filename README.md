@@ -1,4 +1,4 @@
-# Datathon-dub
+# Datathon Dub
 
 ## PROBLEM STATEMENT
 ### Accelerating the Sales of Urban Edge Apparel
